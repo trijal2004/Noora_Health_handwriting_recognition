@@ -9,7 +9,7 @@ This repository is for Handwriting recognition of what nurses enter and pulling 
 
 We experimented using various **processors** available in Document AI on google cloud platform. 
 
-- Results obtained from CustomeExtractor are present in ```CustomeExtractor.ipynb```  
+- Results obtained from CustomExtractor are present in ```CustomExtractor.ipynb```  
 - Results obtained using FormParser are present in ```FormParser.ipynb```
 
 To train CustomExtracter several images were used for both training and testing and these images have been seprately stored in their respective folders(```Test_Attendance_Sheets``` AND ```Train_Attendance_Sheets```).  Labels for all the images could be found on Google Cloud platform. 
@@ -43,7 +43,7 @@ Using **FormParser**
 
 ![image sample](https://i.postimg.cc/T3G4RVfx/sample.jpg)
 
-Using **CustomeExtractor**
+Using **CustomExtractor**
 
 ![image](https://i.postimg.cc/pXvZ8P7Y/Screenshot-from-2023-12-29-14-43-32.png)
 
