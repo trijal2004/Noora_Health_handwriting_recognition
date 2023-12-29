@@ -5,7 +5,7 @@
  
 ## Project Overview:
 
-This repositary is for Handwriting recognition of what nurses enter and pulling the text out digitally.
+This repository is for Handwriting recognition of what nurses enter and pulling the text out digitally.
 
 We experimented using various **processors** available in Document AI on google cloud platform. 
 
@@ -18,7 +18,7 @@ The ```Unused_images``` are stored seprately for future use.
 
 ## Installation
 
-All the ipynb notebooks could be run using **google colabratory**.  
+All the ipynb notebooks could be run using **google colab**.  
 
 For running the files locally:  
 * Make sure you have the [Google Cloud SDK](https://cloud.google.com/sdk/?hl=en_US&_ga=2.96937945.-752482749.1702469365&_gac=1.3460740.1703278465.EAIaIQobChMIl7mj0_ajgwMVZI9LBR2ypQLIEAAYASAAEgLuc_D_BwE) installed.  
