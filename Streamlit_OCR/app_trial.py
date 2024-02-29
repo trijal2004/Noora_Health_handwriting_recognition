@@ -22,7 +22,7 @@ def save_uploaded_file(uploaded_file):
 
 
 def main():
-    st.title("Notebook Runner")
+    st.title("Handwriting Recognition")
 
     form_parser_input = None
     # Initialize session state for chains
