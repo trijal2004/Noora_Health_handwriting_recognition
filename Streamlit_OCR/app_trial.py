@@ -5,7 +5,7 @@ import pandas as pd
 import json
 from pathlib import Path
 
-from gemini_chained.py import model,process_document_from_file, convert_document_to_dictionary, json_structure, restructure_json, structured_dictionary, chained_prompts, create_chain, process_document_form_sample, process_document
+from gemini_chained import model,process_document_from_file, convert_document_to_dictionary, json_structure, restructure_json, structured_dictionary, chained_prompts, create_chain, process_document_form_sample, process_document
 
 def save_uploaded_file(uploaded_file):
     # Create a temporary directory to store the uploaded file
