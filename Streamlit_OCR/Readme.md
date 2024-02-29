@@ -26,6 +26,6 @@ Follow these steps to run the project locally:
 1. Make sure `gemini_chained.py` is in the same folder as `app_trial.py`.
 2. Open `gemini_chained.py` and:
 - Enter your API key in line 282.
-- Update other details from line 17 to 20 as needed.
+- Update other details from line 17 to 20 and 263 to 265 as needed.
 3. In your terminal, run the following command:
   streamlit run app_trial.py
