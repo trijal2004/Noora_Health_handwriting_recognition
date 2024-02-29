@@ -260,10 +260,10 @@ def process_document_from_file(file_path: str) -> documentai.Document:
         documentai.Document: The processed document.
     """
     # Define your project, location, processor_id, processor_version, and mime_type here
-    project_id = "attendanceextractor"
-    location = "us"
-    processor_id = "12bf41b9e4b98255"
-    processor_version = "rc"
+    project_id = "YOUR_PROJECT_ID"
+    location = "LOCATION"
+    processor_id = "PROCESSOR_ID"
+    processor_version = "PROCESSOR_VERSION"
     mime_type = "image/jpeg"
 
     # Process the document form sample
