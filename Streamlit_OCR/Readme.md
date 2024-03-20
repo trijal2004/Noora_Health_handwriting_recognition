@@ -17,7 +17,9 @@ This folder contains files to run finalised streamlit version of OCR.
 2. Navigate to the directory "Streamlit_OCR":
 3. Install all the dependencies:
   `pip install -r requirements.txt`
-
+4. Also install Google Cloud CLI installer from here: https://cloud.google.com/sdk/docs/install
+5. The Google Cloud CLI is used for authorisation.
+6. To know how to use Google Cloud CLI for verification watch this: https://www.youtube.com/watch?v=gpAiUerUdEA
 
 ### Running Locally
 
